@@ -1,6 +1,6 @@
 site:
   title: Romanian for Life
-  start_page: documentation:ROOT:index.adoc
+  start_page: romanian-for-life:ROOT:index.adoc
 
 runtime:
   fetch: true
