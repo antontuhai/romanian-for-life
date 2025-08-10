@@ -1,0 +1,33 @@
+site:
+  title: Romanian for Life
+  start_page: documentation:ROOT:index.adoc
+
+runtime:
+  fetch: true
+
+content:
+  sources:
+    - url: https://github.com/antontuhai/romanian-for-life
+      branches: ["master"]
+      start_path: docs
+
+output:
+  clean: true
+  dir: ./output
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ./supplemental-ui
+
+asciidoc:
+  attributes:
+    kroki-server-url: 'https://kroki.io'
+    kroki-fetch-diagram: true
+    page-pagination: ''
+  extensions:
+#    - asciidoctor-plantuml
+    - ./supplemental-ui/extensions/swagger.extension.js
+#    - '@asciidoctor/tabs'
+    - asciidoctor-kroki

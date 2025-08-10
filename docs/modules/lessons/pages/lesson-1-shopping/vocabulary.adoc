@@ -1,0 +1,322 @@
+== 📖 Vocabular de cumpărături (Shopping vocabulary) / Лексика "Покупки"
+
+[cols="1,3,3,3,3",options="header"]
+|===
+| №
+| Cuvânt românesc
+| Transcripție (accent)
+| Переклад (укр.)
+| Translation (eng.)
+
+| 1
+| a cumpăra
+| koo‑mpă‑**RA**
+| купувати
+| to buy
+
+| 2
+| a vinde
+| **VEEN**‑de
+| продавати
+| to sell
+
+| 3
+| a plăti
+| plă‑**TEE**
+| платити
+| to pay
+
+| 4
+| a costa
+| **KOS**‑ta
+| коштувати
+| to cost
+
+| 5
+| a comanda
+| ko‑man‑**DA**
+| замовляти
+| to order
+
+| 6
+| a returna
+| re‑tur‑**NA**
+| повертати
+| to return
+
+| 7
+| a schimba
+| skeem‑**BA**
+| обмінювати
+| to exchange
+
+| 8
+| a căuta
+| că‑u‑**TA**
+| шукати
+| to search
+
+| 9
+| a găsi
+| gă‑**SEE**
+| знаходити
+| to find
+
+|10
+| a alege
+| a‑**LE**‑je
+| вибирати
+| to choose
+
+|11
+| a încerca
+| în‑cher‑**CA**
+| приміряти
+| to try on
+
+|12
+| a pune
+| **POO**‑ne
+| класти
+| to put
+
+|13
+| a lua
+| **LOO**‑a
+| брати
+| to take
+
+|14
+| a primi
+| pri‑**MEE**
+| отримувати
+| to receive
+
+|15
+| a da
+| **DA**
+| давати
+| to give
+
+|16
+| a împacheta
+| în‑pa‑ke‑**TA**
+| пакувати
+| to wrap / pack
+
+|17
+| a verifica
+| ve‑ri‑fi‑**CA**
+| перевіряти
+| to check
+
+|18
+| a economisi
+| e‑ko‑no‑mi‑**SEE**
+| економити
+| to save (money)
+
+|19
+| a negocia
+| ne‑go‑chi‑**A**
+| торгуватися
+| to bargain
+
+|20
+| a cheltui
+| kel‑tu‑**EE**
+| витрачати
+| to spend
+
+|21
+| bani
+| **BA**‑ni
+| гроші
+| money
+
+|22
+| numerar
+| nu‑me‑**RAR**
+| готівка
+| cash
+
+|23
+| card bancar
+| **KARD** bankar
+| банківська картка
+| bank card
+
+|24
+| portofel
+| por‑to‑**FEL**
+| гаманець
+| wallet
+
+|25
+| preț
+| **PRETS**
+| ціна
+| price
+
+|26
+| reducere
+| re‑**DU**‑ce‑re
+| знижка
+| discount
+
+|27
+| ofertă
+| o‑**FER**‑tə
+| акційна пропозиція
+| offer / deal
+
+|28
+| produs
+| pro‑**DUS**
+| товар
+| product / item
+
+|29
+| produse alimentare
+| pro‑DU‑se a‑li‑men‑**TA**‑re
+| продукти харчування
+| groceries
+
+|30
+| produs electronic
+| pro‑*DU*‑s e‑lek‑tro‑**NIC**
+| електроніка
+| electronic product
+
+|31
+| calitate
+| ka‑li‑**TA**‑te
+| якість
+| quality
+
+|32
+| garanție
+| ga‑ran‑**ȚI**‑e
+| гарантія
+| warranty
+
+|33
+| cantitate
+| kan‑ti‑**TA**‑te
+| кількість
+| quantity
+
+|34
+| bon fiscal
+| bon fis‑**CAL**
+| фіскальний чек
+| receipt (tax)
+
+|35
+| chitanță
+| chi‑**TAN**‑ță
+| квитанція
+| invoice / receipt
+
+|36
+| rest
+| **REST**
+| решта
+| change
+
+|37
+| casă (de marcat)
+| **KA**‑sə
+| каса (касовий апарат)
+| checkout / register
+
+|38
+| casier
+| ka‑si‑**ER**
+| касир
+| cashier
+
+|39
+| client
+| kli‑**ENT**
+| клієнт
+| customer
+
+|40
+| vânzător
+| vân‑ză‑**TOR**
+| продавець
+| seller/ assistant
+
+|41
+| coș
+| **KOSH**
+| кошик
+| basket
+
+|42
+| cărucior
+| că‑ru‑**CIOR**
+| візок
+| shopping cart
+
+|43
+| pungă
+| **PUN**‑gă
+| пакет/сумка
+| bag
+
+|44
+| ambalaj
+| am‑ba‑**LAZH**
+| упаковка
+| packaging
+
+|45
+| raft
+| **RAFT**
+| полиця
+| shelf
+
+|46
+| raion
+| ra‑**YON**
+| відділ
+| aisle / department
+
+|47
+| cabina de probă
+| ka‑**BI**‑na de **PRO**‑bə
+| примірочна
+| fitting room
+
+|48
+| mărime
+| mă‑**RI**‑me
+| розмір
+| size
+
+|49
+| cod de bare
+| kod de **BA**‑re
+| штрих‑код
+| barcode
+
+|50
+| program (de funcționare)
+| pro‑**GRAM**
+| графік (роботи)
+| opening hours
+
+|51
+| deschis / închis
+| de‑**SKIS**/în‑**KIS**
+| відчинено / зачинено
+| open / closed
+
+|52
+| livrare
+| li‑**VRA**‑re
+| доставка
+| delivery
+|===

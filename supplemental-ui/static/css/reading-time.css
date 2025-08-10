@@ -1,0 +1,17 @@
+.reading-time {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 5px;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 5px;
+  text-align: left;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.reading-time::before {
+  margin-right: 5px;
+}

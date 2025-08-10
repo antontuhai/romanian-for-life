@@ -1,0 +1,61 @@
+= Learn Romanian online — fast, practical, and fun
+
+include::partial$attributes/default-set.adoc[]
+
+== 🗣 Speak Romanian from day one
+This is not another grammar-heavy course.
+We teach you to **speak Romanian naturally** by using the same sentence patterns native speakers use every day.
+
+**Our method combines:**
+
+- **Sentence-building algorithms** → Easy-to-apply structures for any topic.
+- **Vocabulary in collocations** → Words always in natural phrases, never isolated.
+- **Repetition out loud** → Build fluency without translating in your head.
+
+== 🎯 Who this course is for
+
+- Absolute beginners learning Romanian online.
+- Travelers preparing for a trip to Romania or Moldova.
+- Expats living in Romanian-speaking regions.
+- Language learners who want to **think in Romanian**, not just translate.
+
+== 📚 What you will learn
+
+- Conversational Romanian for real-life situations.
+- Correct grammar without memorizing rules.
+- Over 1,000 words and phrases in context.
+- How to build your own sentences from day one.
+
+== ⚙️ How it works
+
+. Select a topic you need now.
+. Learn 1–2 sentence algorithms.
+. Practice with **dialogues and exercises**.
+. Repeat out loud until it feels natural.
+
+== 🔥 Popular lesson topics
+
+* 🛒 Shopping — from street markets to supermarkets
+* 🍽 Eating out — ordering food, asking for the bill, tipping
+* 🚌 Transport — buying tickets, asking for directions
+* 🏠 Renting a home — viewing apartments, signing contracts
+* 💬 Everyday conversation — greetings, small talk, politeness
+
+== 💡 Why our method works
+
+- You speak in complete sentences from your first lesson.
+- Vocabulary is learned in **real, useful combinations**.
+- Practice is active — you speak, not just read or listen.
+- Clear, **bilingual translations**: Romanian + phonetic transcription + English.
+
+== 📝 Example
+
+* _Algoritmi + lexic + repetiție cu voce = fluență_
+* _Algorithms + vocabulary + repetition out loud = fluency_
+
+== 🚀 Start learning Romanian today
+
+- link:#[**Go to lessons**]
+- link:#[**Learn more about the method**]
+
+**Spend 15–20 minutes a day** and see results in just one week.

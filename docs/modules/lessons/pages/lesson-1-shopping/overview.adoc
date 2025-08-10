@@ -1,0 +1,66 @@
+= Lecție 1 – Cumpărături / Урок 1 – Покупки
+include::romanian-for-life::partial$attributes/default-set.adoc[]
+
+== Intro
+
+Imagine walking into a Romanian supermarket or a small local shop. You want more than just to buy products — you want to do it easily, confidently, and without language barriers. In this lesson, you will combine three elements:
+
+* [*] Sentence-building algorithms
+* [*] Topic-specific vocabulary
+* [*] Dialog practice
+
+You will learn how to ask for prices, clarify weight or size, negotiate discounts, order, and pay for purchases. By the end of the lesson, you will be able to hold short, natural conversations with a shop assistant or cashier without having to think about every word.
+
+== 🎯 Obiectiv / Goal
+
+* *RO:* să folosim **5 algoritmi‑schelet** pentru a cere, căuta, cumpăra și plăti. +
+* *UA:* опанувати **5 структурних алгоритмів**, щоб просити, шукати, купувати й оплачувати.
+
+---
+
+* *RO:* să activăm vocabularul de 52 de cuvinte. +
+* *UA:* активувати 52 ключові слова.
+
+////
+================= VOCABULARY =========================
+////
+include::lessons:lesson-1-shopping/vocabulary.adoc[]
+
+////
+================= COMMON PHRASES =========================
+////
+include::lessons:lesson-1-shopping/common-phrases.adoc[]
+
+////
+================= ACTIVE ALGORITHMS =====================
+////
+include::lessons:lesson-1-shopping/active-algorithms.adoc[]
+
+////
+================= USEFUL TEMPLATES =====================
+////
+include::lessons:lesson-1-shopping/useful-templates.adoc[]
+
+////
+================= REFERENCE DIALOGS =====================
+////
+include::lessons:lesson-1-shopping/dialogs.adoc[]
+
+== 📝 Exerciții / Вправи
+
+. *RO:* Înlocuiește verbul «plăti» cu *pot / trebuie / nu pot*. +
+*UA:* Замініть «платити» на *можу / треба / не можу*.
+. *RO:* Cinci întrebări «Cât costă …?» + produse din Tabelul 1. +
+*UA:* П’ять питань «Скільки коштує …?» із таблиці 1.
+. *RO:* Trei imperative politicoase: *Dați‑mi …*, *Puneți …*. +
+*UA:* Три ввічливі накази: *Дайте …*, *Покладіть …*.
+
+== ⏱️ Sprint 10 minute / 10‑хвилинний спринт
+
+*RO:* Scrie 5 produse + 3 fraze fiecare (vreau / cât costă / pot să plătesc). +
+*UA:* Запишіть 5 товарів + 3 фрази (хочу / скільки коштує / можу заплатити).
+
+== 📌 Rezumat pe scurt / Коротке резюме
+
+*RO:* Algoritmi + lexic + repetiție cu voce = fluență. +
+*UA:* Алгоритми + лексика + повтор уголос = вільність мовлення.

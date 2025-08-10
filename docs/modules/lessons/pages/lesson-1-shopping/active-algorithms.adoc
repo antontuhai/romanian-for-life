@@ -1,0 +1,13 @@
+== 🧠 Algoritmi activi / Active algorithms
+
+[cols="1,3,4,6",options="header"]
+|===
+| № | Algoritm / Алгоритм | Formulă / Формула | Exemplu / Приклад
+
+| ① | Eu sunt / am / vreau | `sunt / am / vreau + …` | *RO:* Vreau reducere. / *UA:* Хочу знижку.
+| ② | S‑V‑O | Subiect + Verb + Obiect | *RO:* Eu caut produsul. / *UA:* Я шукаю товар.
+| ③ | Modal + inf. | `pot / trebuie + să + verb` | *RO:* Pot să plătesc cu cardul? / *UA:* Чи можу я заплатити карткою?
+| ④ | Întrebări / Питання | `cât / unde / ce … ?` | *RO:* Unde este cabina? / *UA:* Де примірочна?
+| ⑥ / ⑨ | Negare / Imperativ | `nu + verb` ; verb 2 pers. | *RO:* Nu am numerar. / *UA:* У мене немає готівки. +
+*RO:* Dați‑mi bonul, vă rog. / *UA:* Дайте мені чек, будь ласка.
+|===

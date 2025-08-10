@@ -1,0 +1,1 @@
+* xref:romanian-for-life::index.adoc[]

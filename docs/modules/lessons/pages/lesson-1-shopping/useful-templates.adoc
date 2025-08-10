@@ -1,0 +1,16 @@
+== 🗂️ Șabloane utile / Корисні шаблони
+
+*RO:* `Vreau + subst.` → Vreau pungă. +
+*UA:* Хочу пакет.
+
+*RO:* `Cât costă + subst.?` → Cât costă laptele? +
+*UA:* Скільки коштує молоко?
+
+*RO:* `Pot să + inf.?` → Pot să încerc? +
+*UA:* Можу приміряти?
+
+*RO:* `Pun + subst. + în pungă.` → Pun pâinea în pungă. +
+*UA:* Кладу хліб у пакет.
+
+*RO:* `Primesc + subst.?` → Primesc bonul fiscal? +
+*UA:* Отримаю фіскальний чек?

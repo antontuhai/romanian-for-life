@@ -1,0 +1,112 @@
+== 🎭 Dialoguri model / Зразкові діалоги
+
+=== 🛒 Dialog Supermarket
+
+[quote]
+____
+*Client (RO):* Bună ziua. Vreau să cumpăr lapte și brânză proaspătă. +
+*UA:* Добрий день. Хочу купити молоко й свіжий сир.
+
+*Vânzător:* Laptele este la raionul de lactate, pe culoarul din stânga. +
+*UA:* Молоко у відділі молочної продукції, в лівому ряді.
+
+*Client:* Mulțumesc. Cât costă laptele de 1 litru? +
+*UA:* Дякую. Скільки коштує літрове молоко?
+
+*Vânzător:* Costă 7 lei, dar astăzi avem reducere de 10 %. +
+*UA:* Коштує 7 лей, але сьогодні 10 % знижка.
+
+*Client:* Perfect. Vă rog puneți două sticle în coș. +
+*UA:* Чудово. Будь ласка, покладіть дві пляшки в кошик.
+
+*(la casă / на касі)*
+
+*Casier:* Doriți să plătiți cu cardul sau numerar? +
+*UA:* Бажаєте заплатити карткою чи готівкою?
+
+*Client:* Pot să plătesc cu cardul contactless? +
+*UA:* Можу заплатити карткою безконтактно?
+
+*Casier:* Desigur. Poftiți terminalul. +
+*UA:* Звичайно. Ось термінал.
+
+*(clientul plătește / покупець оплачує)*
+
+*Casier:* Iată bonul fiscal și restul corect. O zi bună! +
+*UA:* Ось ваш фіскальний чек і правильна решта. Гарного дня!
+
+*Client:* Mulțumesc, la revedere! +
+*UA:* Дякую, до побачення!
+____
+
+
+=== 👗 Dialog Magazin de îmbrăcăminte
+
+[quote]
+____
+*Client:* Bună! Aș dori să încerc această jachetă, mărimea M. +
+*UA:* Добрий день! Хочу приміряти цю куртку, розмір M.
+
+*Vânzătoare:* Desigur. Cabina de probă este liberă, pe dreapta. +
+*UA:* Звісно. Примірочна вільна, праворуч.
+
+*(după probă / після примірки)*
+
+*Client:* Îmi place, dar prețul este cam mare. Aveți vreo ofertă? +
+*UA:* Подобається, але ціна трохи висока. Є якась акція?
+
+*Vânzătoare:* Pot să vă ofer o reducere de 15 %, doar astăzi. +
+*UA:* Можу запропонувати 15 % знижки, лише сьогодні.
+
+*Client:* Grozav! Pot plăti cu telefonul? Nu am portofelul la mine. +
+*UA:* Чудово! Можу заплатити телефоном? Гаманця з собою немає.
+
+*Casier:* Da, acceptăm plata contactless. +
+*UA:* Так, приймаємо безконтактну оплату.
+
+*(plată / оплата)*
+
+*Client:* Vă rog un ambalaj cadou. +
+*UA:* Прошу подарункову упаковку.
+
+*Casier:* Sigur, împachetăm imediat. Poftiți bonul fiscal. +
+*UA:* Звичайно, пакуємо одразу. Ось ваш фіскальний чек.
+
+*Client:* Mulțumesc mult! +
+*UA:* Велике дякую!
+____
+
+
+=== 💻 Dialog Comandă online
+
+[quote]
+____
+*Client (chat):* Bună! Vreau să comand un laptop. Ce garanție oferiți? +
+*UA:* Привіт! Хочу замовити ноутбук. Яку гарантію ви надаєте?
+
+*Operator:* Oferim garanție de 2 ani și livrare gratuită. +
+*UA:* Надаємо 2 роки гарантії та безкоштовну доставку.
+
+*Client:* Pot să plătesc ramburs la livrare? +
+*UA:* Чи можу оплатити при отриманні?
+
+*Operator:* Da, dar trebuie să aveți numerar. Livrarea expres costă 20 lei. +
+*UA:* Так, але потрібно мати готівку. Експрес‑доставка коштує 20 лей.
+
+*Client:* Aleg livrare normală, gratuită. +
+*UA:* Обираю безкоштовну звичайну доставку.
+
+*(după 2 zile / через 2 дні)*
+
+*Curier:* Bună ziua, coletul dvs. Vă rugăm să verificați produsul. +
+*UA:* Добрий день, ваша посилка. Перевірте, будь ласка, товар.
+
+*Client:* Totul e în regulă. Primesc chitanță și bon fiscal? +
+*UA:* Все гаразд. Отримаю квитанцію й фіскальний чек?
+
+*Curier:* Desigur. Poftim documentele. O zi frumoasă! +
+*UA:* Звичайно. Ось документи. Гарного дня!
+
+*Client:* Mulțumesc! +
+*UA:* Дякую!
+____
