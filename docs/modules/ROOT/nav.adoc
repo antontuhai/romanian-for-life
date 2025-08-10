@@ -1,1 +1,2 @@
-* xref:romanian-for-life::index.adoc[]
+// ============ LESSONS =================
+include::romanian-for-life:lessons:partial$nav.adoc[]

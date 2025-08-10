@@ -1,2 +1,2 @@
 * Lessons
-** xref:lesson-1-shopping/overview.adoc[]
+** xref:romanian-for-life:lessons:lesson-1-shopping/overview.adoc[]
